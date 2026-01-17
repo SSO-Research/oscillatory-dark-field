@@ -16,6 +16,7 @@ A public, timestamped preprint is available via OSF:
 
 Available Papers:
 📄 **Unified_Oscillatory_Dark_Field_ODF_v1.0.pdf**
+
 📄 **Unified_Oscillatory_Dark_Field_ODF_v1.1.pdf**
 
 ## Purpose
