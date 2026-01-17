@@ -11,10 +11,12 @@ The manuscript examines whether gravitational phenomena commonly attributed to s
 - No claim of observational discovery
 
 ## Paper
-📄 **Unified_Oscillatory_Dark_Field_ODF_v1.0.pdf**
-
-A public, timestamped preprint is available via OSF:  
+A public, timestamped preprint is available via OSF:
 👉 [https://doi.org/10.17605/OSF.IO/SAUNZ]
+
+Available Papers:
+📄 **Unified_Oscillatory_Dark_Field_ODF_v1.0.pdf**
+📄 **Unified_Oscillatory_Dark_Field_ODF_v1.1.pdf**
 
 ## Purpose
 This work is shared publicly to establish priority, invite scrutiny, and encourage discussion. Null results and critical feedback are explicitly welcomed.
