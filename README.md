@@ -12,9 +12,10 @@ The manuscript examines whether gravitational phenomena commonly attributed to s
 
 ## Paper
 A public, timestamped preprint is available via OSF:
+
 👉 [https://doi.org/10.17605/OSF.IO/SAUNZ]
 
-Available Papers:
+### Available Papers:
 📄 **Unified_Oscillatory_Dark_Field_ODF_v1.0.pdf**
 
 📄 **Unified_Oscillatory_Dark_Field_ODF_v1.1.pdf**
